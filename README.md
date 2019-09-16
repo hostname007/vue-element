@@ -5,4 +5,3 @@
 npm install     
   >    运行项目 
 npm run dev   
-**本人第一次写项目，望多多支持！ 
